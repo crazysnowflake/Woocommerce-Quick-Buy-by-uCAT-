@@ -1,6 +1,6 @@
 <?php
 /**
- * Plugin Name: Woocommerce Quick Buy (by uCAT)
+ * Plugin Name: uCAT - Woocommerce Quick Buy
  * Plugin URI: 
  * Description: Reduces standard 4-stage purchasing to one click. One click adds the product basket and automatically switches to the payment page. Your visitors will buy your product directly without being lost between pages.
  * Version: 1.0.1
